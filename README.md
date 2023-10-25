@@ -37,7 +37,7 @@ To run the project, you can follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/amalsatheesan/credit-card-fraud-detection.git
+   git clone https://github.com/AmalSatheesan/Credit-Card-Fraud-Detection
 
 2. Install the required libraries and dependencies:
     
