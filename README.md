@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection using Scikit-Learn and Snap ML
 
-This project is a practical exercise in building machine learning models for credit card fraud detection. It leverages Scikit-Learn and Snap ML to train classification models that identify fraudulent credit card transactions.
+This project is a practical project in building machine learning models for credit card fraud detection. It leverages Scikit-Learn and Snap ML to train classification models that identify fraudulent credit card transactions.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This project is a practical exercise in building machine learning models for cre
 - [Compatibility with Scikit-Learn](#compatibility-with-scikit-learn)
 - [Exploring Snap ML](#exploring-snap-ml)
 - [Credits](#credits)
-- [License](#license)
+
 
 ## Introduction
 
